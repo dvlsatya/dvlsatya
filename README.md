@@ -9,6 +9,9 @@
 I'm a zealous learner 🌈 - ever ready to seize the opportunity on my way💯 and 
 having deepest cravings to explore new horizons of these beautiful technologies out there😎
 
+🟡Tech enthusiast who’s always keen to learn new things. 
+✨I would love to explore different domains and fields in computer science and build up my skills.
+
 🔴 I'm currently diving deeper into:
  🚀 Problem-Solving by honing DSA skills                           
  🚀I'm looking to collaborate with open source programs and various tech programs
@@ -18,7 +21,7 @@ having deepest cravings to explore new horizons of these beautiful technologies 
   
 
 ## 🌐Socials !
-### 🟢
+###
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/d-satya-11022a22b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/DDannapurna)
 
   
