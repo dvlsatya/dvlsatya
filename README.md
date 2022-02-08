@@ -10,7 +10,7 @@ I'm looking to collaborate with open source programs
 
   
 
-## 🌐Socials ![enter image description here](https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif)
+## 🌐Socials ![enter image description here](https://blog.hootsuite.com/wp-content/uploads/2019/05/social-media-customer-service.svg)
 ### 🟢
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/d-satya-11022a22b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/DDannapurna)
 
