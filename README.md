@@ -2,7 +2,10 @@
 #
 # < Hello Coders🚀, I'm SATYA[![](https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif)](https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif)/>
 🔵🟡🔴🟢🟠
+
+
 🟠Pursuing Computer Engineering - 1st Year🎓.
+
 I'm a zealous learner 🌈 - ever ready to seize the opportunity on my way💯 and 
 having deepest cravings to explore new horizons of these beautiful technologies out there😎
 
