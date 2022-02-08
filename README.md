@@ -2,10 +2,9 @@
 #
 # < Hello Coders🚀, I'm SATYA[![](https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif)](https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif)/>
 🔵🟡🔴🟢🟠
-
-I'm pursuing 1st year of Btech computer science
-
-I'm a zealous learner 🌈 - ever ready to seize the opportunity on my way
+🟠Pursuing Computer Engineering - 1st Year🎓.
+I'm a zealous learner 🌈 - ever ready to seize the opportunity on my way💯 and 
+having deepest cravings to explore new horizons of these beautiful technologies out there😎
 
 🔴 I'm currently diving deeper into:
  🚀 Problem-Solving by honing DSA skills                           
@@ -15,7 +14,7 @@ I'm a zealous learner 🌈 - ever ready to seize the opportunity on my way
 
   
 
-## 🌐Socials ![enter image description here](file:///C:/Users/d%20satya/OneDrive/Pictures/Saved%20Pictures/Screenshot_115.png)
+## 🌐Socials !
 ### 🟢
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/d-satya-11022a22b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/DDannapurna)
 
