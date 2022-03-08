@@ -6,7 +6,7 @@
 
 🟠Pursuing Computer Engineering - 1st Year🎓.
 
-I'm a zealous learner 🌈 - ever ready to seize the opportunity on my way💯 and 
+I'm a ardent learner 🌈 - ever ready to seize the opportunity on my way💯 and 
 having deepest cravings to explore new horizons of these beautiful technologies out there😎
 
 🟡Tech enthusiast who’s always keen to learn new things.
