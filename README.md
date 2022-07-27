@@ -31,8 +31,7 @@ having deepest cravings to explore new horizons of these beautiful technologies 
 
 # 💻Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) !
 # 📊GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=dvlsatya&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true)<br/>
