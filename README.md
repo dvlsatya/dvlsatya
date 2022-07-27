@@ -4,7 +4,7 @@
 🔵🟡🔴🟢🟠
 
 
-🟠Pursuing Computer Engineering - 1st Year🎓.
+🟠Pursuing Computer Engineering - 2nd Year🎓.
 
 I'm a ardent learner 🌈 - ever ready to seize the opportunity on my way💯 and 
 having deepest cravings to explore new horizons of these beautiful technologies out there😎
